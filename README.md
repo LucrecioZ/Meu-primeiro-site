@@ -24,21 +24,21 @@ Olhar para ele hoje me lembra o quanto evoluí e o quanto ainda quero crescer.
 
 Hoje consigo aplicar conceitos mais avançados como integração com banco de dados, backend em PHP e desenvolvimento mobile com Kotlin, mas este foi o primeiro passo da minha evolução.
 
+## 📸 Preview do Projeto
+
+<p align="center">
+  <img src="./print1.png" width="300"/>
+  <img src="./print2.png" width="300"/>
+  <img src="./print3.png" width="300"/>
+</p>
+
+---
 ## 🎯 Objetivos do Projeto
 
 - Praticar estruturação semântica em HTML
 - Aplicar estilização com CSS
 - Desenvolver noções de layout e organização visual
 - Iniciar minha jornada no desenvolvimento web
-
----
-## 📸 Preview do Projeto
-
-<p align="center">
-  <img src="/print1.png" width="300"/>
-  <img src="./print2.png" width="300"/>
-  <img src="./print3.png" width="300"/>
-</p>
 
 ---
 
